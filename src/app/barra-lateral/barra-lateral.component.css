@@ -1,0 +1,24 @@
+section{
+    background-color: rgb(4, 4, 63);
+    display: grid;
+    margin: 5px;
+    
+}
+.body-section-title h2{
+  color: yellow;
+  padding: 10px;
+}
+.body-section{
+    
+    text-align: justify;
+    padding: 10px;
+}
+
+.body-section h3{
+    color: white;
+}
+
+.body-section p{
+    color: rgb(189, 187, 187);
+}
+
